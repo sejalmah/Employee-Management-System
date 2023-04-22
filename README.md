@@ -6,5 +6,5 @@ Snippets from Project:
 
 Register a new user:
 
-https://user-images.githubusercontent.com/72298689/233795447-09965bc6-ce2e-43fa-8fa4-083ffa91e3c9.png
+![Screenshot (280)](https://user-images.githubusercontent.com/72298689/233795442-c988f0ae-dceb-4f1f-8dd9-11f0717c4f4d.png)
 
